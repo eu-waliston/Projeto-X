@@ -52,8 +52,8 @@ h1 a {
 }
 
 h1 a:hover {
-    background-color: #9fa09d;
-    color: #FFF;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
 }
 
 .clear {
